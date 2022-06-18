@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.bedb1a87.js",
-    "index.html": "/index.html",
-    "main.bedb1a87.js.map": "/static/js/main.bedb1a87.js.map"
+    "main.js": "/ostapenko_task2/static/js/main.bedb1a87.js",
+    "index.html": "/ostapenko_task2/index.html",
+    "main.bedb1a87.js.map": "/ostapenko_task2/static/js/main.bedb1a87.js.map"
   },
   "entrypoints": [
     "static/js/main.bedb1a87.js"
